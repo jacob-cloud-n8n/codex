@@ -23,19 +23,14 @@ tags:
 
 ## GitHub CLI 狀態
 
-`gh` 已安裝，但尚未登入 GitHub。
+`gh` 已安裝，且已登入 GitHub。
 
-下一步請在本機終端機執行：
+驗證結果：
 
-```bash
-gh auth login
-```
-
-建議選擇：
-
-- GitHub.com
-- HTTPS
-- Login with a web browser
+- 帳號：`jacob-cloud-n8n`
+- Git protocol：HTTPS
+- Token scopes：`gist`、`read:org`、`repo`、`workflow`
+- Repo 存取：`jacob-cloud-n8n/codex`
 
 ## 必裝外掛程式
 
@@ -67,6 +62,5 @@ gh auth login
 
 ## 尚需手動完成
 
-1. 執行 `gh auth login` 完成 GitHub CLI 登入。
-2. 到 Codex Desktop 的 Settings / Plugins 檢查是否出現 GitHub 外掛；若出現，手動啟用並登入。
-3. 重新開啟終端機或 Codex，讓 `~/.local/bin` 路徑生效。
+1. 到 Codex Desktop 的 Settings / Plugins 檢查是否出現 GitHub 外掛；若出現，手動啟用並登入。
+2. 重新開啟 Codex，讓 `~/.local/bin` 路徑在 Codex 執行環境中生效。

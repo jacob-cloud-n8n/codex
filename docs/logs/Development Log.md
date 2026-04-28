@@ -9,3 +9,4 @@
 - 連接 GitHub 遠端倉庫並完成第一次 push。
 - 依據 `04-第二大腦設定指南.md` 建立適合本專案的第二大腦結構與 Codex 工作規則。
 - 依據 `01.5-Codex必裝Skills與Plugins.md` 檢查 Codex Skills / Plugins 與基礎工具，補裝 `gh` 與 `uv`。
+- 完成 GitHub CLI 登入，確認 `jacob-cloud-n8n/codex` repo 可存取。
