@@ -10,6 +10,7 @@
 - [[../歡迎來到專案第二大腦]]
 - [[../知識庫/index|知識庫索引]]
 - [[../知識庫/log|知識庫操作紀錄]]
+- [[Codex Skills and Plugins Check]]
 - [[../README|README]]
 
 ## 專案狀態
