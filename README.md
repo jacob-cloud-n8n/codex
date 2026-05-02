@@ -7,6 +7,7 @@ React + Vite + TypeScript project.
 - Obsidian home: [docs/Home.md](docs/Home.md)
 - Second brain guide: [歡迎來到專案第二大腦.md](歡迎來到專案第二大腦.md)
 - Knowledge base: [知識庫/index.md](知識庫/index.md)
+- Firebase setup: [docs/Firebase%20Setup.md](docs/Firebase%20Setup.md)
 - Project board: [docs/tasks/Project%20Board.md](docs/tasks/Project%20Board.md)
 - Development log: [docs/logs/Development%20Log.md](docs/logs/Development%20Log.md)
 
