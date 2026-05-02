@@ -20,6 +20,7 @@ tags:
 | Firestore rules | 已建立 | `firestore.rules` |
 | Firebase config | 已建立 | `firebase.json` |
 | Firebase project template | 已建立 | `.firebaserc.example` |
+| Firebase project | 已設定 | `codex-jacob` |
 
 ## 尚需手動完成
 
@@ -73,14 +74,14 @@ firebase projects:list
 
 ### 5. 建立 `.firebaserc`
 
-複製 `.firebaserc.example` 成 `.firebaserc`，並把 `your-firebase-project-id` 換成實際專案 ID。
+已建立 `.firebaserc`，使用專案 ID：`codex-jacob`。
 
 格式：
 
 ```json
 {
   "projects": {
-    "default": "your-firebase-project-id"
+    "default": "codex-jacob"
   }
 }
 ```

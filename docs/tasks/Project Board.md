@@ -6,9 +6,8 @@
 - [ ] 規劃第一個功能
 - [ ] 設定每週知識重整排程
 - [ ] 在 Codex Desktop 手動確認 GitHub 外掛是否可啟用
-- [ ] 建立 Firebase 專案並啟用 Cloud Firestore
+- [ ] 啟用 Cloud Firestore
 - [ ] 完成 `firebase login`
-- [ ] 建立 `.firebaserc`
 - [ ] 部署 Firestore 規則
 - [ ] 重啟 Codex Desktop 並驗證 Firebase MCP
 
@@ -28,3 +27,5 @@
 - [x] 完成 `gh auth login`
 - [x] 安裝 Firebase CLI
 - [x] 建立 Firestore rules 與 Firebase config
+- [x] 建立 Firebase 專案 `codex-jacob`
+- [x] 建立 `.firebaserc`
