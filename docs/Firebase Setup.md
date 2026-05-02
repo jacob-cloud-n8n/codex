@@ -21,6 +21,8 @@ tags:
 | Firebase config | 已建立 | `firebase.json` |
 | Firebase project template | 已建立 | `.firebaserc.example` |
 | Firebase project | 已設定 | `codex-jacob` |
+| Firebase CLI login | 已完成 | 可列出 `codex-jacob` |
+| Firestore rules deploy | 已完成 | `Deploy complete!` |
 
 ## 尚需手動完成
 
@@ -44,7 +46,9 @@ tags:
 
 ### 3. 登入 Firebase CLI
 
-在本機終端機執行：
+已完成 Firebase CLI 登入。
+
+原始指令：
 
 ```bash
 firebase login
@@ -88,11 +92,17 @@ firebase projects:list
 
 ### 6. 部署 Firestore 規則
 
+已部署完成。
+
+原始指令：
+
 ```bash
 firebase deploy --only firestore:rules
 ```
 
-成功時會看到 `Deploy complete!`。
+部署結果：`Deploy complete!`
+
+目前規則允許 `wordcloud_words` 公開讀寫，其餘集合拒絕讀寫。這是依照 `04.5-連接-Firebase-資料庫.md` 的課堂文字雲預設規則。
 
 ## Codex MCP 設定
 
