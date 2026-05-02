@@ -13,3 +13,4 @@
 - 依據 `04.5-連接-Firebase-資料庫.md` 安裝 Firebase CLI，建立 `firestore.rules`、`firebase.json` 與 Firebase 設定文件。
 - 依據 Firebase Console 截圖設定 Firebase 專案 ID：`codex-jacob`。
 - 完成 Firebase CLI 登入並部署 Firestore rules 到 `codex-jacob`。
+- 重啟 Codex 後完成 Firebase MCP 驗證：新增、讀取、列出、刪除 Firestore 測試文件皆成功。

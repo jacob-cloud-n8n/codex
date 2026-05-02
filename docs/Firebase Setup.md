@@ -23,6 +23,7 @@ tags:
 | Firebase project | 已設定 | `codex-jacob` |
 | Firebase CLI login | 已完成 | 可列出 `codex-jacob` |
 | Firestore rules deploy | 已完成 | `Deploy complete!` |
+| Firebase MCP validation | 已完成 | 新增、讀取、列出、刪除測試文件成功 |
 
 ## 尚需手動完成
 
@@ -120,17 +121,30 @@ tool_timeout_sec = 120
 
 ## 測試流程
 
-登入、建立 `.firebaserc`、部署規則後，請執行：
+登入、建立 `.firebaserc`、部署規則後，已完成 MCP 測試。
 
-```bash
-firebase projects:list
-firebase firestore:databases:list
-```
+測試環境：
 
-重啟 Codex 後，可以請 Codex 測試：
+- Active project：`codex-jacob`
+- Database：`projects/codex-jacob/databases/(default)`
+- Edition：Standard
+- Location：`asia-east1`
+- Realtime updates：enabled
 
-- 列出 Firebase 專案
-- 列出 Firestore 集合
-- 新增 `test_collection` 測試文件
-- 讀回測試文件
-- 刪除測試文件
+測試文件：
+
+- Collection：`test_collection`
+- Document：`codex_mcp_test_20260502`
+- Message：`Firebase MCP 連接測試成功`
+
+測試結果：
+
+- 成功讀取 Firebase environment
+- 成功列出 Firestore database
+- 成功新增測試文件
+- 成功讀回測試文件
+- 成功列出 `test_collection`
+- 成功刪除測試文件
+- 刪除後再次讀取，確認文件不存在
+
+注意：`firestore_add_document` 的 `document` 參數需要傳 Firestore document 物件，不要包成 JSON 字串。

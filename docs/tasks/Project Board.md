@@ -6,7 +6,6 @@
 - [ ] 規劃第一個功能
 - [ ] 設定每週知識重整排程
 - [ ] 在 Codex Desktop 手動確認 GitHub 外掛是否可啟用
-- [ ] 重啟 Codex Desktop 並驗證 Firebase MCP
 
 ## In Progress
 
@@ -29,3 +28,4 @@
 - [x] 啟用 Cloud Firestore
 - [x] 完成 `firebase login`
 - [x] 部署 Firestore 規則
+- [x] 重啟 Codex Desktop 並驗證 Firebase MCP
