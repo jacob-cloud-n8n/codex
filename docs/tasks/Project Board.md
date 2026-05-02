@@ -6,6 +6,7 @@
 - [ ] 規劃第一個功能
 - [ ] 設定每週知識重整排程
 - [ ] 在 Codex Desktop 手動確認 GitHub 外掛是否可啟用
+- [ ] 開始第一個班級互動工具
 
 ## In Progress
 
@@ -29,3 +30,5 @@
 - [x] 完成 `firebase login`
 - [x] 部署 Firestore 規則
 - [x] 重啟 Codex Desktop 並驗證 Firebase MCP
+- [x] 建立 #07 專案駕駛艙
+- [x] 建立 `startup-sync`、`shutdown-sync`、`project-init-sync`

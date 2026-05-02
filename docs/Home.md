@@ -12,6 +12,7 @@
 - [[../知識庫/log|知識庫操作紀錄]]
 - [[Codex Skills and Plugins Check]]
 - [[Firebase Setup]]
+- [[專案工作流程]]
 - [[../README|README]]
 
 ## 專案狀態
@@ -20,3 +21,5 @@
 - Git 分支：main
 - GitHub：已連接 `jacob-cloud-n8n/codex`
 - 第二大腦：已建立輸入、消化、輸出三層結構
+- Firebase：已連接 `codex-jacob`
+- 工作模式：已建立 `開工`、`收工`、`新專案初始化`

@@ -14,3 +14,4 @@
 - 依據 Firebase Console 截圖設定 Firebase 專案 ID：`codex-jacob`。
 - 完成 Firebase CLI 登入並部署 Firestore rules 到 `codex-jacob`。
 - 重啟 Codex 後完成 Firebase MCP 驗證：新增、讀取、列出、刪除 Firestore 測試文件皆成功。
+- 依據 `07-初始化班級工具工作模式.md` 套用既有專案工作模式，補齊全域開工/收工/初始化 skills 與專案駕駛艙。
