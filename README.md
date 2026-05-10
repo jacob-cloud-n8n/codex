@@ -5,6 +5,7 @@
 ## Project Links
 
 - Obsidian home: [docs/Home.md](docs/Home.md)
+- Second brain entry: [歡迎來到你的第二大腦.md](歡迎來到你的第二大腦.md)
 - Second brain guide: [歡迎來到專案第二大腦.md](歡迎來到專案第二大腦.md)
 - Knowledge base: [知識庫/index.md](知識庫/index.md)
 - Firebase setup: [docs/Firebase%20Setup.md](docs/Firebase%20Setup.md)
@@ -31,6 +32,20 @@ Global Codex skills:
 - Current public collection: `wordcloud_words`
 
 Student-facing data should use class codes and seat numbers only. Do not store real student names.
+
+## Obsidian
+
+Open this folder as the Obsidian vault:
+
+```text
+/Users/jacob/Library/CloudStorage/GoogleDrive-chen.uvtai12@gmail.com/我的雲端硬碟/2026 codex
+```
+
+Main entry:
+
+```text
+歡迎來到你的第二大腦.md
+```
 
 ## Setup
 

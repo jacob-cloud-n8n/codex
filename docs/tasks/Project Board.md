@@ -7,6 +7,8 @@
 - [ ] 設定每週知識重整排程
 - [ ] 在 Codex Desktop 手動確認 GitHub 外掛是否可啟用
 - [ ] 開始第一個班級互動工具
+- [ ] 在 Obsidian 使用 `Open folder as vault` 開啟目前資料夾
+- [ ] 設定 Obsidian Web Clipper 預設資料夾為 `Clippings`
 
 ## In Progress
 
@@ -32,3 +34,5 @@
 - [x] 重啟 Codex Desktop 並驗證 Firebase MCP
 - [x] 建立 #07 專案駕駛艙
 - [x] 建立 `startup-sync`、`shutdown-sync`、`project-init-sync`
+- [x] 補齊第二大腦 `CLAUDE.md` 與 Obsidian 設定
+- [x] 轉移近期工作紀錄到 `每日筆記/` 與 `知識庫/`

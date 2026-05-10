@@ -19,3 +19,10 @@
 ## 2026-05-10
 
 - 從 `https://github.com/mathruffian-dot/2026-YouTube` 安裝 `codex-youtube-video-workflow`、`audio-to-srt`、`smart-cut`。
+
+## 2026-05-11
+
+- 重新檢查 `04-第二大腦設定指南.md` 所需結構。
+- 補上 `CLAUDE.md`、Obsidian Daily Notes / Templates 設定與正式歡迎筆記。
+- 將 2026-04-26 至 2026-05-11 的工作紀錄轉移到 `每日筆記/` 與 `知識庫/`。
+- 更新知識庫索引與操作紀錄。
