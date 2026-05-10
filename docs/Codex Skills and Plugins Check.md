@@ -51,6 +51,9 @@ tags:
 | skill-installer | 已安裝 | 安裝其他 skills |
 | skill-creator | 已安裝 | 建立自己的 skills |
 | plugin-creator | 已安裝 | 建立本機 plugin，進階用 |
+| codex-youtube-video-workflow | 已安裝 | Codex 專用 YouTube 生產總控 |
+| audio-to-srt | 已安裝 | 音訊轉字幕、斷句、清字與驗證 |
+| smart-cut | 已安裝 | 口播影片自動剪停頓 |
 
 ## 進階項目
 
@@ -64,3 +67,4 @@ tags:
 
 1. 到 Codex Desktop 的 Settings / Plugins 檢查是否出現 GitHub 外掛；若出現，手動啟用並登入。
 2. 重新開啟 Codex，讓 `~/.local/bin` 路徑在 Codex 執行環境中生效。
+3. 重新啟動 Codex，讓新安裝的 YouTube workflow skills 載入。
