@@ -26,3 +26,4 @@
 - 補上 `CLAUDE.md`、Obsidian Daily Notes / Templates 設定與正式歡迎筆記。
 - 將 2026-04-26 至 2026-05-11 的工作紀錄轉移到 `每日筆記/` 與 `知識庫/`。
 - 更新知識庫索引與操作紀錄。
+- 安裝 Gemini CLI `0.41.2` 到 `~/.local/bin/gemini`，並新增 `GEMINI.md` 專案 context。

@@ -37,3 +37,9 @@ related:
 
 - 新安裝 skills 後，需要重啟 Codex 才會載入。
 - `codex-youtube-video-workflow` 會依賴 `audio-to-srt` 與 `smart-cut`。
+
+## Gemini CLI
+
+- 安裝版本：`0.41.2`
+- 安裝位置：`/Users/jacob/.local/bin/gemini`
+- 專案 context：`GEMINI.md`

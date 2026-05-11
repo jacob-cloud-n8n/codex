@@ -18,6 +18,7 @@
 - Say `開工` to run the startup workflow.
 - Say `收工` to update the cockpit, commit relevant changes, and push when appropriate.
 - Say `新專案初始化` to audit and initialize a classroom-tool project workflow.
+- Gemini CLI context is available in [GEMINI.md](GEMINI.md).
 
 Global Codex skills:
 
