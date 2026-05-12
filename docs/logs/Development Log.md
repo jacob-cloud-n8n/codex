@@ -27,3 +27,9 @@
 - 將 2026-04-26 至 2026-05-11 的工作紀錄轉移到 `每日筆記/` 與 `知識庫/`。
 - 更新知識庫索引與操作紀錄。
 - 安裝 Gemini CLI `0.41.2` 到 `~/.local/bin/gemini`，並新增 `GEMINI.md` 專案 context。
+
+## 2026-05-12
+
+- 安裝 Anthropic `skill-creator`，以 `anthropic-skill-creator` 名稱保存，避免覆蓋 Codex 內建系統 skill。
+- 安裝 `PyYAML` 以支援該 skill 的驗證腳本。
+- 執行 `quick_validate.py`，結果為 `Skill is valid!`。

@@ -33,10 +33,20 @@ related:
 - `audio-to-srt`
 - `smart-cut`
 
+## Anthropic skills
+
+來源：`https://github.com/anthropics/skills/blob/main/skills/skill-creator/SKILL.md`
+
+- 安裝名稱：`anthropic-skill-creator`
+- 原始 skill 名稱：`skill-creator`
+- 調整原因：避免和 Codex 內建 `.system/skill-creator` 撞名
+- 驗證結果：`Skill is valid!`
+
 ## 注意事項
 
 - 新安裝 skills 後，需要重啟 Codex 才會載入。
 - `codex-youtube-video-workflow` 會依賴 `audio-to-srt` 與 `smart-cut`。
+- `anthropic-skill-creator` 的 eval scripts 需要 Python 套件 `PyYAML`，已安裝到使用者 Python。
 
 ## Gemini CLI
 
