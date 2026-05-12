@@ -2,7 +2,6 @@
 
 ## Backlog
 
-- [ ] 安裝依賴並確認本機開發環境
 - [ ] 規劃第一個功能
 - [ ] 設定每週知識重整排程
 - [ ] 在 Codex Desktop 手動確認 GitHub 外掛是否可啟用
@@ -36,3 +35,4 @@
 - [x] 建立 `startup-sync`、`shutdown-sync`、`project-init-sync`
 - [x] 補齊第二大腦 `CLAUDE.md` 與 Obsidian 設定
 - [x] 轉移近期工作紀錄到 `每日筆記/` 與 `知識庫/`
+- [x] 安裝依賴並確認本機開發環境
