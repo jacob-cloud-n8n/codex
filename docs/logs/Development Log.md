@@ -33,3 +33,4 @@
 - 安裝 Anthropic `skill-creator`，以 `anthropic-skill-creator` 名稱保存，避免覆蓋 Codex 內建系統 skill。
 - 安裝 `PyYAML` 以支援該 skill 的驗證腳本。
 - 執行 `quick_validate.py`，結果為 `Skill is valid!`。
+- 安裝 Vercel `find-skills`，驗證通過，並確認 `npx skills find react testing` 可正常搜尋。

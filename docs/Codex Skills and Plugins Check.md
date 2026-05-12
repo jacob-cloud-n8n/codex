@@ -55,6 +55,7 @@ tags:
 | audio-to-srt | 已安裝 | 音訊轉字幕、斷句、清字與驗證 |
 | smart-cut | 已安裝 | 口播影片自動剪停頓 |
 | anthropic-skill-creator | 已安裝 | Anthropic 版 skill 建立、評估、benchmark 與描述優化流程 |
+| find-skills | 已安裝 | 搜尋、比較與推薦開放 agent skills |
 
 ## 進階項目
 
@@ -68,4 +69,4 @@ tags:
 
 1. 到 Codex Desktop 的 Settings / Plugins 檢查是否出現 GitHub 外掛；若出現，手動啟用並登入。
 2. 重新開啟 Codex，讓 `~/.local/bin` 路徑在 Codex 執行環境中生效。
-3. 重新啟動 Codex，讓新安裝的 YouTube workflow skills 與 `anthropic-skill-creator` 載入。
+3. 重新啟動 Codex，讓新安裝的 YouTube workflow skills、`anthropic-skill-creator` 與 `find-skills` 載入。
