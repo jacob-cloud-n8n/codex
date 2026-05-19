@@ -6,6 +6,7 @@
 
 - `AGENTS.md`
 - `CLAUDE.md`
+- `docs/development-quality-rules.md`
 - `docs/專案工作流程.md`
 
 ## 專案摘要
@@ -23,3 +24,9 @@
 - 不要儲存學生姓名；正式資料只用座號與班級代號。
 - 修改前先檢查 Git 狀態。
 - 只處理使用者要求的範圍。
+
+## 品質規則
+
+- 網站、n8n 工作流與助理機器人開發，遵守 `docs/development-quality-rules.md`。
+- 先定義成功標準，再實作與驗證。
+- 若有跳過、未驗證或外部服務不確定，必須明確回報。

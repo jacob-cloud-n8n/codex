@@ -8,6 +8,7 @@
 - [ ] 開始第一個班級互動工具
 - [ ] 在 Obsidian 使用 `Open folder as vault` 開啟目前資料夾
 - [ ] 設定 Obsidian Web Clipper 預設資料夾為 `Clippings`
+- [ ] 依開發品質 12 條規則，規劃第一個網站、n8n 工作流或助理機器人實作任務
 
 ## In Progress
 
@@ -36,3 +37,4 @@
 - [x] 補齊第二大腦 `CLAUDE.md` 與 Obsidian 設定
 - [x] 轉移近期工作紀錄到 `每日筆記/` 與 `知識庫/`
 - [x] 安裝依賴並確認本機開發環境
+- [x] 導入開發品質 12 條規則

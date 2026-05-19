@@ -23,6 +23,12 @@
 
 ## 工作規則
 
+### 開發品質規則
+
+- 網站、n8n 工作流與助理機器人開發，請先讀 `docs/development-quality-rules.md`。
+- 非瑣碎任務以謹慎優先於速度，先確認成功標準，再實作與驗證。
+- 有跳過、未驗證、權限不足或外部服務不確定時，必須明確說出。
+
 ### 新增筆記時
 
 - 一律加上 frontmatter：`title`、`date`、`type`、`tags`。
@@ -53,4 +59,5 @@
 
 - `AGENTS.md`：Codex 專案固定規則、路徑、GitHub/Firebase/工作模式。
 - `CLAUDE.md`：第二大腦筆記庫規則，方便 Claude Code 或其他工具讀取。
+- `docs/development-quality-rules.md`：網站、n8n 工作流與助理機器人的共用品質規則。
 - `docs/專案工作流程.md`：專案駕駛艙，記錄進度、下一步與踩坑。

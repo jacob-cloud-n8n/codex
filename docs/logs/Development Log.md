@@ -34,3 +34,9 @@
 - 安裝 `PyYAML` 以支援該 skill 的驗證腳本。
 - 執行 `quick_validate.py`，結果為 `Skill is valid!`。
 - 安裝 Vercel `find-skills`，驗證通過，並確認 `npx skills find react testing` 可正常搜尋。
+
+## 2026-05-19
+
+- 暫緩文字雲實作，改先導入程式開發品質規則。
+- 依 `CLAUDE-md-12rules.md` 建立 `docs/development-quality-rules.md`，作為網站、n8n 工作流與助理機器人的共用 12 條品質規則。
+- 更新 `AGENTS.md`、`CLAUDE.md`、`GEMINI.md`，讓不同工具都能讀到同一份品質標準。

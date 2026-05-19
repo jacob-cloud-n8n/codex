@@ -74,6 +74,13 @@ Firebase：`firebase.json`、`firestore.rules`、`.firebaserc`
 
 ## 工作規則
 
+### 開發品質規則
+
+- 所有網站、n8n 工作流與助理機器人開發，先遵守 `docs/development-quality-rules.md`。
+- 非瑣碎任務以謹慎優先於速度：先定義成功標準，再實作與驗證。
+- 預設精準修改，只動本次任務需要的範圍。
+- 任何跳過、未驗證、權限不足或外部服務不確定，都要明確回報，不要假裝完成。
+
 ### 新增筆記時
 
 - 一律加入 frontmatter：`title`、`date`、`type`、`tags`。
