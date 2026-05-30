@@ -40,3 +40,11 @@
 - 暫緩文字雲實作，改先導入程式開發品質規則。
 - 依 `CLAUDE-md-12rules.md` 建立 `docs/development-quality-rules.md`，作為網站、n8n 工作流與助理機器人的共用 12 條品質規則。
 - 更新 `AGENTS.md`、`CLAUDE.md`、`GEMINI.md`，讓不同工具都能讀到同一份品質標準。
+
+## 2026-05-30
+
+- 安裝 OpenCode CLI `1.15.12` 到使用者目錄，並建立 `/Users/jacob/.local/bin/opencode` 連結。
+- 修正 OpenCode 設定檔環境變數格式：`{env:MIMO_API_KEY}`。
+- 以 `zsh -ic 'opencode run ...'` 完成最小測試，確認 Codex 可交辦任務給 OpenCode。
+- 確認 Agent 團隊分工模式：Jacob 發令、Codex 拆解與驗收、OpenCode 執行明確任務、GitHub/Obsidian 留紀錄。
+- 將 OpenDesign 列為待接入角色，等有 CLI、connector 或官方安裝方式後再接入。
