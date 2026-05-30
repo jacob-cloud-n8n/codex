@@ -48,3 +48,8 @@
 - 以 `zsh -ic 'opencode run ...'` 完成最小測試，確認 Codex 可交辦任務給 OpenCode。
 - 確認 Agent 團隊分工模式：Jacob 發令、Codex 拆解與驗收、OpenCode 執行明確任務、GitHub/Obsidian 留紀錄。
 - 將 OpenDesign 列為待接入角色，等有 CLI、connector 或官方安裝方式後再接入。
+- 建立素材消化工作模式：
+  - 建立 `Templates/素材分析.md` 模板文件
+  - 建立 `知識庫/素材消化流程.md` 流程指南
+  - 更新 `AGENTS.md`、`CLAUDE.md`、`GEMINI.md` 加入素材消化指引
+  - 更新 `docs/專案工作流程.md` 記錄素材消化工作模式

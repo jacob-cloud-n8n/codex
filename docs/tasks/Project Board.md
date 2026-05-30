@@ -9,7 +9,6 @@
 - [ ] 在 Obsidian 使用 `Open folder as vault` 開啟目前資料夾
 - [ ] 設定 Obsidian Web Clipper 預設資料夾為 `Clippings`
 - [ ] 依開發品質 12 條規則，規劃第一個網站、n8n 工作流或助理機器人實作任務
-- [ ] 交辦 OpenCode 建立素材消化工作模式
 - [ ] 接入 OpenDesign 作為設計規格 / 高階架構角色
 
 ## In Progress
@@ -42,3 +41,4 @@
 - [x] 導入開發品質 12 條規則
 - [x] 安裝並驗證 OpenCode CLI
 - [x] 確認 Agent 團隊分工模式
+- [x] 建立素材消化工作模式（Templates/素材分析.md、知識庫/素材消化流程.md）

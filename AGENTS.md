@@ -108,6 +108,11 @@ Firebase：`firebase.json`、`firestore.rules`、`.firebaserc`
 - 使用者說「新增到筆記」時，代表存到這個 vault。
 - 使用者說「消化資料」時，先讀 `Clippings/`，再整理到 `知識庫/`。
 - 使用者說「跑一次知識重整」時，執行週知識重整流程。
+- 使用者貼影片、文章、GitHub repo 或外部資料時，先走素材消化流程：
+  1. 建立 `Clippings/` 素材分析文件
+  2. 使用 `Templates/素材分析.md` 標準格式
+  3. 消化後存到 `知識庫/`，並更新 `知識庫/index.md`
+  4. 相關流程見 `知識庫/素材消化流程.md`
 
 ### Firebase
 

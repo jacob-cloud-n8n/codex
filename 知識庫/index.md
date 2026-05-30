@@ -18,3 +18,4 @@ tags:
 | [[專案工作模式總覽]] | Codex、GitHub、Obsidian、Firebase 的專案工作模式 |
 | [[Firebase 連接紀錄]] | Firebase / Firestore / MCP 的設定與驗證紀錄 |
 | [[Codex Skills 安裝紀錄]] | 系統 skills、工作模式 skills、YouTube workflow skills |
+| [[素材消化流程]] | 當使用者貼影片、文章、GitHub repo 或外部資料時的處理流程 |

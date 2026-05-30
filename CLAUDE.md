@@ -55,6 +55,14 @@
 - 代表存到這個 Obsidian vault。
 - 先判斷內容屬於輸入、消化、輸出或時間紀錄，再放到對應資料夾。
 
+### 使用者貼影片、文章、GitHub repo 或外部資料時
+
+- 先走素材消化流程：
+  1. 建立 `Clippings/` 素材分析文件
+  2. 使用 `Templates/素材分析.md` 標準格式
+  3. 消化後存到 `知識庫/`，並更新 `知識庫/index.md`
+  4. 相關流程見 `知識庫/素材消化流程.md`
+
 ## 與 Codex 的分工
 
 - `AGENTS.md`：Codex 專案固定規則、路徑、GitHub/Firebase/工作模式。
