@@ -4,13 +4,13 @@
 
 專案名稱：2026 Codex
 專案用途：班級互動工具與 Codex 教學工作模式專案
-主要工作目錄：`/Users/jacob/Library/CloudStorage/GoogleDrive-chen.uvtai12@gmail.com/我的雲端硬碟/2026 codex`
+主要工作目錄：`/Users/jacob/Projects/2026 codex`
 GitHub repo：`https://github.com/jacob-cloud-n8n/codex`
 預設 branch：`main`
 
 ## Obsidian 對應筆記
 
-Obsidian vault：`/Users/jacob/Library/CloudStorage/GoogleDrive-chen.uvtai12@gmail.com/我的雲端硬碟/2026 codex`
+Obsidian vault：`/Users/jacob/Projects/2026 codex`
 專案駕駛艙：`docs/專案工作流程.md`
 收工時優先更新：`docs/專案工作流程.md`
 
@@ -18,7 +18,7 @@ Obsidian vault：`/Users/jacob/Library/CloudStorage/GoogleDrive-chen.uvtai12@gma
 
 ## 工作桌 + 三個家
 
-- 工作桌：Google Drive 工作資料夾
+- 工作桌：Mac 本機 `~/Projects/2026 codex/`
 - GitHub：`https://github.com/jacob-cloud-n8n/codex`
 - Obsidian：本 repo 內 Markdown vault
 - Firebase：`codex-jacob`
