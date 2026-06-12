@@ -50,5 +50,8 @@ tags:
 用 Obsidian 直接開啟目前資料夾作為 vault：
 
 ```text
-/Users/jacob/Library/CloudStorage/GoogleDrive-chen.uvtai12@gmail.com/我的雲端硬碟/2026 codex
+/Users/jacob/Projects/2026 codex
 ```
+
+> [!NOTE]
+> 舊 Google Drive 雲端路徑已於 2026-06-12 遷移至本地 /Users/jacob/Projects/... 並停用，防範 AI 走錯路。

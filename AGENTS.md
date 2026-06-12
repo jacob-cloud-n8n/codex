@@ -19,6 +19,10 @@ Obsidian vault：`/Users/jacob/Projects/2026 codex`
 ## 工作桌 + 三個家
 
 - 工作桌：Mac 本機 `~/Projects/2026 codex/`
+
+> [!NOTE]
+> 舊 Google Drive 雲端路徑已於 2026-06-12 遷移至本地 /Users/jacob/Projects/... 並停用，防範 AI 走錯路。
+
 - GitHub：`https://github.com/jacob-cloud-n8n/codex`
 - Obsidian：本 repo 內 Markdown vault
 - Firebase：`codex-jacob`
