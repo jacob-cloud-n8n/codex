@@ -16,4 +16,5 @@
 * **規格腦 (AG)** 只產出 `docs/specs_*.md` 規格，**絕不碰代碼**。
 * **Codex** 負責讀取 specs 規格並進行代碼整合。
 * **OpenCode (本機)** 作為體力外掛，由 Codex 以本機 CLI 形式直呼叫以執行具體修改。
-* 每次完成階段任務後，必須即時更新對應的 `_worklog.md` 並 Push 回 GitHub 遠端倉庫，確保雲端 Hermes 隨時能進行 DoD 驗收。
+* 每次完成階段任務後，必須更新對應的 `_worklog.md` 或專案駕駛艙；是否 Push 回 GitHub 需依 Jacob / Codex 當次指示與驗收節奏決定，不得因雲端 Hermes 需要 DoD 驗收而自動推送。
+* 若雲端 Hermes 需要讀到最新文件才能驗收，先回報需要同步的 commit 範圍，取得明確同意後再 push。
